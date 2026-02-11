@@ -1,4 +1,4 @@
-# Olá, eu sou a [Ellen Frias] 👋
+# Olá, eu sou a Ellen Frias👋
 
 ### 👩‍💻 Sobre mim
 Sou uma entusiasta de dados em transição de carreira, focada em transformar números em decisões estratégicas. Atualmente, estou mergulhada no ecossistema de dados, dominando Python e SQL para resolver problemas reais de negócio.
