@@ -6,7 +6,7 @@ Sou uma entusiasta de dados em transição de carreira, focada em transformar n�
 - 🔭 **Momento atual:** Finalizando a maratona de SQL (JOINs, Subqueries e Agregações).
 - 🌱 **Aprendendo:** Estatística aplicada e Visualização de Dados avançada.
 - 🎯 **Objetivo:** Atuar como Analista de Dados Junior e contribuir com insights valiosos.
-- 📫 **Contato:** [https://www.linkedin.com/in/ellen-frias-938a16258/]
+- 📫 **Contato:** https://www.linkedin.com/in/ellen-frias-938a16258/
 
 ---
 
